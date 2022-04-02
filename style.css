@@ -1,0 +1,43 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: #00a1de;
+    color: white;
+    margin: 0 0 40px 0 ;
+    min-height: 80px;
+    line-height: 80px;
+}
+
+h5 {
+    margin-top: 0;
+    font-style: italic;
+}
+
+a {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+    margin-left: 20px;
+}
+
+ul, ol {
+    background-color: orange;
+    width: 600px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+li {
+    margin: 10px;
+    margin-left: 30px;
+}
